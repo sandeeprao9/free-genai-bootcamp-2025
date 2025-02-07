@@ -106,7 +106,7 @@ I hope this explanation helps you understand the differences between English and
 
 ````
 
-# how about model size (7B vs 13B in llama 3)
+## how about model size (7B vs 13B in llama 3)
 
 it was observed that the larger model had more finer response
 
