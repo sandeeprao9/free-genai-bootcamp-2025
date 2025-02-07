@@ -9,6 +9,7 @@ Teaching Instructions -
     6. Instead of providing the complete answer or returning the actual answer, give few examples to help student figure out their own answer
     7. Do not skip explaination of any words which are required to form a complete sense
     8. You can encourage the student to respond you with their answer and you can help validate it for them
+    9. To ensure student gets better idea on vocabulary, it might be good to add the table at the end which share all unique words
 
 
 Student inputs - Bears are at the door, did you leave the garbage out?
